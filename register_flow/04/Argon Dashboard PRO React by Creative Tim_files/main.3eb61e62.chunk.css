@@ -47539,6 +47539,12 @@ button:focus {
     position: relative;
     line-height: 38px;
 }
+@media (max-width:991.98px) {
+
+.wizard-breadcrumbs .col-xl-8{
+    display: none;
+}
+}
 
 .wizard-breadcrumbs button:not(:last-of-type) {
     padding-right: 30px;
