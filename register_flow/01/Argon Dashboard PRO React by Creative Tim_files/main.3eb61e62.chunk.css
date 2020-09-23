@@ -47542,7 +47542,7 @@ button:focus {
 @media (max-width:991.98px) {
 
 .wizard-breadcrumbs .col-xl-8{
-    display: none;
+    display: none !important;
 }
 }
 
